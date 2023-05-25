@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Technical Information</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+
+    th, td {
+      padding: 8px;
+      text-align: left;
+    }
+
+  </style>
+</head>
+<body>
+  <h1>Technical Information</h1>
+
+  <table>
+    <tr>
+      <td>Representation type</td>
+      <td>Grid</td>
+    </tr>
+    <tr>
+      <td>Scale</td>
+      <td>1000</td>
+    </tr>
+    <tr>
+      <td>Coordinate reference system</td>
+      <td>EPSG:3338</td>
+    </tr>
+    <tr>
+      <td>Metadata information</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Contact</td>
+      <td>Geophysical Institute, University of Alaska Fairbanks</td>
+    </tr>
+    <tr>
+      <td>Point of contact</td>
+      <td>Sergey Marchenko</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>College of Natural Science and Mathematics,
+        Geophysical Institute, University of Alaska Fairbanks
+        2156 Koyukuk Drive, 408E Elvey Building
+        Fairbanks, AK 99775-7320
+        </td>
+    </tr>
+    <tr>
+      <td>Telephone</td>
+      <td>(907) 474-6737</td>
+    </tr>
+    <tr>
+      <td>FAX</td>
+      <td>(907) 474-7290</td>
+    </tr>
+    <tr>
+      <td>e-mail</td>
+      <td><a href="mailto:ssmarchenko@alaska.edu">ssmarchenko@alaska.edu</a></td>
+    </tr>
+    <tr>
+      <td>Web</td>
+      <td><a href="https://permafrost.gi.alaska.edu/users/sergey">https://permafrost.gi.alaska.edu/users/sergey</a></td>
+    </tr>
+    <tr>
+      <td>Metadata language</td>
+      <td>English</td>
+    </tr>
+    <tr>
+      <td>Grid spatial representation</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Number of dimensions</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Dimension</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dimension name</td>
+      <td>Row</td>
+    </tr>
+    <tr>
+      <td>Dimension size</td>
+      <td>1940</td>
+    </tr>
+    <tr>
+      <td>Resolution</td>
+      <td>1000 meters</td>
+    </tr>
+    <tr>
+      <td>Dimension</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Dimension name</td>
+      <td>Column</td>
+    </tr>
+    <tr>
+      <td>Dimension size</td>
+      <td>2470</td>
+    </tr>
+    <tr>
+      <td>Resolution</td>
+      <td>1000 meters</td>
+    </tr>
+    <tr>
+      <td>Cell geometry</td>
+      <td>Area</td>
+    </tr>
+    <tr>
+      <td>Projection:</td>
+      <td>NAD_1983_Alaska_Albers</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>WKID: 3338 Authority: EPSG</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>False Easting: 0.0
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>False Northing: 0.0
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Central Meridian: -154.0
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Standard_Parallel_1: 55.0</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Standard_Parallel_2: 65.0</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Latitude of Origin: 50.0</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Linear Unit: Meter (1.0)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Geographic Coordinate System: GCS_North_American_1983</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Angular Unit: Degree (0.0174532925199433)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Prime Meridian: Greenwich (0.0)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Datum: D_North_American_1983</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Spheroid: GRS_1980</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Semimajor Axis: 6378137.0</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Semiminor Axis: 6356752.314140356</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Inverse Flattening: 298.257222101</td>
+  </table>
+
+</body>
+</html>
