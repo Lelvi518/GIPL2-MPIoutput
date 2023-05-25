@@ -1,0 +1,282 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #535b69;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: center;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #899a9b;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  text-align: center;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+.center {
+    text-align: center;
+}
+
+</style>
+</head>
+<body></body>
+
+<button type="button" class="collapsible">5-Model Average RCP 4.5</button>
+<div class="content">
+    <p>Mean Annual Ground Temperature (MAGT):</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_45/gipl2_5ModelAvg_rcp45_Ak_1km_nad83_magt_Surf_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw1Y7R7O82Icwfu3C4b0Ijke" target="_blank" rel="noreferrer">Surface depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_45/gipl2_5ModelAvg_rcp45_Ak_1km_nad83_magt_0.5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234405000&amp;usg=AOvVaw0F6QWTbA6Aq7QE46JVzaXF" target="_blank" rel="noreferrer">0.5m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_45/gipl2_5ModelAvg_rcp45_Ak_1km_nad83_magt_1m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw0a8JP4COOqtIBfIDnJ2nCg" target="_blank" rel="noreferrer">1.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_45/gipl2_5ModelAvg_rcp45_Ak_1km_nad83_magt_2m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw3N1u8YQD5b9r7lSJ_YeJQE" target="_blank" rel="noreferrer">2.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_45/gipl2_5ModelAvg_rcp45_Ak_1km_nad83_magt_3m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw2vwkdvkHi6yZW2EYUYHYZG" target="_blank" rel="noreferrer">3.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_45/gipl2_5ModelAvg_rcp45_Ak_1km_nad83_magt_4m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw0ezmTLVNPq-GTRbWgK1m2H" target="_blank" rel="noreferrer">4.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_45/gipl2_5ModelAvg_rcp45_Ak_1km_nad83_magt_5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw0U47TpLKlkcbA6UHzb4n9Z" target="_blank" rel="noreferrer">5.0m depth, [°C]</a>
+    </p>
+    <p>Permafrost Characteristics:</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_45/gipl2_5ModelAvg_rcp45_Ak_1km_nad83_pfBase_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw1LCY__o5qvLOivgvHNZFeF" target="_blank" rel="noreferrer">Permafrost Base / Permafrost Thickness, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_45/gipl2_5ModelAvg_rcp45_Ak_1km_nad83_pfTop_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw3ntQFzDZwoOlvr2O-fxKmK" target="_blank" rel="noreferrer">Active Layer Thickness / Top of Permafrost, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_45/gipl2_5ModelAvg_rcp45_Ak_1km_nad83_Talik_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw1he4F832JGI0llTk8rAQ4g" target="_blank" rel="noreferrer">Talik thickness, [m]</a>
+    </p>
+    <br>
+</div>
+
+<button type="button" class="collapsible">5-Model Average RCP 8.5</button>
+<div class="content">
+    <p>Mean Annual Ground Temperature (MAGT):</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_85/gipl2_5ModelAvg_rcp85_Ak_1km_nad83_magt_Surf_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw2-d51lELAiePCsFLP-IkaU" target="_blank" rel="noreferrer">Surface depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_85/gipl2_5ModelAvg_rcp85_Ak_1km_nad83_magt_0.5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw1fPYQVJSzTMVdHbBqxhSIm" target="_blank" rel="noreferrer">0.5m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_85/gipl2_5ModelAvg_rcp85_Ak_1km_nad83_magt_1m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw0-z8MxnkU58Re6Vt659hwp" target="_blank" rel="noreferrer">1.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_85/gipl2_5ModelAvg_rcp85_Ak_1km_nad83_magt_2m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw0oMbw9mLeDlyUBNcY7dMpd" target="_blank" rel="noreferrer">2.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_85/gipl2_5ModelAvg_rcp85_Ak_1km_nad83_magt_3m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw2f96FsHqmDb0Gr-mGDr_7R" target="_blank" rel="noreferrer">3.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_85/gipl2_5ModelAvg_rcp85_Ak_1km_nad83_magt_4m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw0NzgcD44A57fpCkIvcfQmA" target="_blank" rel="noreferrer">4.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_85/gipl2_5ModelAvg_rcp85_Ak_1km_nad83_magt_5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw05KiRDqNckJnyKoEC-Yqc9" target="_blank" rel="noreferrer">5.0m depth, [°C]</a>
+    </p>
+    <p>Permafrost Characteristics:</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_85/gipl2_5ModelAvg_rcp85_Ak_1km_nad83_pfBase_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw3tXb_oNDQMk50vhdQRzscR" target="_blank" rel="noreferrer">Permafrost Base / Permafrost Thickness, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_85/gipl2_5ModelAvg_rcp85_Ak_1km_nad83_pfTop_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw38Plm1L546R88P0sd15g_e" target="_blank" rel="noreferrer">Active Layer Thickness / Top of Permafrost, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_5Models_85/gipl2_5ModelAvg_rcp85_Ak_1km_nad83_Talik_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw0EboC3fuVtfoEAuBA3836B" target="_blank" rel="noreferrer">Talik thickness, [m]</a>
+    </p>
+    <br>
+</div>
+
+<button type="button" class="collapsible">GFDL-CM3 RCP 4.5</button>
+<div class="content">
+    <p>Mean Annual Ground Temperature (MAGT):</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_magt_Surf_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw1ocQqncckZpabm1L22HhGw" target="_blank" rel="noreferrer">Surface depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_magt_0.5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw1L0Amd6uqWYwy1lU50_M75" target="_blank" rel="noreferrer">0.5m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_magt_1m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw1YpWomozE8E_ng0Rys8rB1" target="_blank" rel="noreferrer">1.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_magt_2m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw3vESjftPN6Za8LP45slUgg" target="_blank" rel="noreferrer">2.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_magt_3m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw10KNYCwOmBR0n437erhzbt" target="_blank" rel="noreferrer">3.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_magt_4m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw27jCaPFE7SJp4SZk5XFFPO" target="_blank" rel="noreferrer">4.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_magt_5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw1j4MuQ3aK6JX4J9IOHekIH" target="_blank" rel="noreferrer">5.0m depth, [°C]</a>
+    </p>
+    <p>Permafrost Characteristics:</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_pfBase_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw2YqnG6h4xOJx2e_Ucv-DSr" target="_blank" rel="noreferrer">Permafrost Base / Permafrost Thickness, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_pfTop_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw2uMji_YHwg24C8KR45yuVl" target="_blank" rel="noreferrer">Active Layer Thickness / Top of Permafrost, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_Talik_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw2SsgPaPwTEk0mMZ_Z8dgaU" target="_blank" rel="noreferrer">Talik thickness, [m]</a>
+    </p>
+    <br>
+</div>
+
+<button type="button" class="collapsible">GFDL-CM3 RCP 8.5</button>
+<div class="content">
+    <p>Mean Annual Ground Temperature (MAGT):</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_45/gipl2_GFDL_CM3_rcp45_Ak_1km_nad83_magt_Surf_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234406000&amp;usg=AOvVaw1ocQqncckZpabm1L22HhGw" target="_blank" rel="noreferrer">Surface depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_85/gipl2_GFDL_CM3_rcp85_Ak_1km_nad83_magt_0.5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw3fzcK4XZfZCYAoU3IIHvSI" target="_blank" rel="noreferrer">0.5m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_85/gipl2_GFDL_CM3_rcp85_Ak_1km_nad83_magt_1m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw3QBFcl0vQ_TL6kGP3-R78m" target="_blank" rel="noreferrer">1.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_85/gipl2_GFDL_CM3_rcp85_Ak_1km_nad83_magt_2m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw0ngiCZ16ElZEemI8ZbBAJh" target="_blank" rel="noreferrer">2.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_85/gipl2_GFDL_CM3_rcp85_Ak_1km_nad83_magt_3m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw1PWDNk0-TUqM5VuQtHxR5f" target="_blank" rel="noreferrer">3.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_85/gipl2_GFDL_CM3_rcp85_Ak_1km_nad83_magt_4m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw3ImZXDnztMMraNQ3FuaVEM" target="_blank" rel="noreferrer">4.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_85/gipl2_GFDL_CM3_rcp85_Ak_1km_nad83_magt_5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw1-bq-9HTwSv5b1DA_gfzoQ" target="_blank" rel="noreferrer">5.0m depth, [°C]</a>
+    </p>
+    <p>Permafrost Characteristics:</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_85/gipl2_GFDL_CM3_rcp85_Ak_1km_nad83_pfBase_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw05jrEI6kPp1GmAEar7nkPt" target="_blank" rel="noreferrer">Permafrost Base / Permafrost Thickness, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_85/gipl2_GFDL_CM3_rcp85_Ak_1km_nad83_pfTop_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw1PfDgHlweeqYDYurcpbrHN" target="_blank" rel="noreferrer">Active Layer Thickness / Top of Permafrost, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_GFDL_85/gipl2_GFDL_CM3_rcp85_Ak_1km_nad83_Talik_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw2wKiTrZk6KyMKjYFP7A8cI" target="_blank" rel="noreferrer">Talik thickness, [m]</a>
+    </p>
+    <br>
+</div>
+
+<button type="button" class="collapsible">NCAR-CCSM4 RCP 4.5</button>
+<div class="content">
+    <p>Mean Annual Ground Temperature (MAGT):</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_45/gipl2_NCAR_CCSM4_rcp45_Ak_1km_nad83_magt_Surf_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw1Yp78Nfeh9YMUDFmSRIy6K" target="_blank" rel="noreferrer">Surface depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_45/gipl2_NCAR_CCSM4_rcp45_Ak_1km_nad83_magt_0.5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw3Zf1CkRCu_1Ex_KrD3kQTF" target="_blank" rel="noreferrer">0.5m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_45/gipl2_NCAR_CCSM4_rcp45_Ak_1km_nad83_magt_1m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw0lb6LdBL-wjyHtLvYHxZ4i" target="_blank" rel="noreferrer">1.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_45/gipl2_NCAR_CCSM4_rcp45_Ak_1km_nad83_magt_2m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw2Ccuck5RtzVkHMz4o27arl" target="_blank" rel="noreferrer">2.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_45/gipl2_NCAR_CCSM4_rcp45_Ak_1km_nad83_magt_3m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw07-SBsa_2_RkQLctAdzwPD" target="_blank" rel="noreferrer">3.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_45/gipl2_NCAR_CCSM4_rcp45_Ak_1km_nad83_magt_4m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw2l8eU9Gqjr9j9l5J1EpTJT" target="_blank" rel="noreferrer">4.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_45/gipl2_NCAR_CCSM4_rcp45_Ak_1km_nad83_magt_5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw2sB5ZlGHiuz4ymj31oZrLr" target="_blank" rel="noreferrer">5.0m depth, [°C]</a>
+    </p>
+    <p>Permafrost Characteristics:</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_45/gipl2_NCAR_CCSM4_rcp45_Ak_1km_nad83_pfBase_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw1TrjJBzDonTItO1y9hrhd1" target="_blank" rel="noreferrer">Permafrost Base / Permafrost Thickness, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_45/gipl2_NCAR_CCSM4_rcp45_Ak_1km_nad83_pfTop_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw1NHHtx4-cb5i2OEAj72_pw" target="_blank" rel="noreferrer">Active Layer Thickness / Top of Permafrost, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_45/gipl2_NCAR_CCSM4_rcp45_Ak_1km_nad83_Talik_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw3L2d8PTZBZZ3i0OdayPKBS" target="_blank" rel="noreferrer">Talik thickness, [m]</a>
+    </p>
+    <br>
+</div>
+
+<button type="button" class="collapsible">NCAR-CCSM4 RCP 8.5</button>
+<div class="content">
+    <p>Mean Annual Ground Temperature (MAGT):</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_85/gipl2_NCAR_CCSM4_rcp85_Ak_1km_nad83_magt_Surf_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw3oRtOyamln42mqkNyYok6U" target="_blank" rel="noreferrer">Surface depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_85/gipl2_NCAR_CCSM4_rcp85_Ak_1km_nad83_magt_0.5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw1znUgQAKcy64ezKWlki01H" target="_blank" rel="noreferrer">0.5m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_85/gipl2_NCAR_CCSM4_rcp85_Ak_1km_nad83_magt_1m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw3CUFiimXjVIOSmFsyfA-Pj" target="_blank" rel="noreferrer">1.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_85/gipl2_NCAR_CCSM4_rcp85_Ak_1km_nad83_magt_2m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw14k0VqQWWH2Z4RBz_yV1Co" target="_blank" rel="noreferrer">2.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_85/gipl2_NCAR_CCSM4_rcp85_Ak_1km_nad83_magt_3m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw1rPf8WqJTC6Kry0btmJM6y" target="_blank" rel="noreferrer">3.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_85/gipl2_NCAR_CCSM4_rcp85_Ak_1km_nad83_magt_4m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw1_s_E7x3os0gwC8XliFFGK" target="_blank" rel="noreferrer">4.0m depth, [°C]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_85/gipl2_NCAR_CCSM4_rcp85_Ak_1km_nad83_magt_5m_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw0fH9M1tOSygC7WIV-aCDXX" target="_blank" rel="noreferrer">5.0m depth, [°C]</a>
+    </p>
+    <p>Permafrost Characteristics:</p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_85/gipl2_NCAR_CCSM4_rcp85_Ak_1km_nad83_pfBase_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw0Bo28WncEstVPDEe9r0dzo" target="_blank" rel="noreferrer">Permafrost Base / Permafrost Thickness, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_85/gipl2_NCAR_CCSM4_rcp85_Ak_1km_nad83_pfTop_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw1Cj2NLS3ui6TExBYA4DbPQ" target="_blank" rel="noreferrer">Active Layer Thickness / Top of Permafrost, [m]</a>
+    </p>
+    <p class="MsoNormal" style="margin-bottom:0in;line-height:normal">
+        <a href="https://www.google.com/url?q=http://akevt.gi.alaska.edu/CRREL/CRREL_NCAR_85/gipl2_NCAR_CCSM4_rcp85_Ak_1km_nad83_Talik_2021_2120.zip&amp;source=gmail-html&amp;ust=1685041234407000&amp;usg=AOvVaw3jEdgygRLiuUxnpXR9w3LO" target="_blank" rel="noreferrer">Talik thickness, [m]</a>
+    </p>
+    <br>
+</div>
+
+<p class='center'>
+    <a href="">Technical Information</a>
+</p>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
